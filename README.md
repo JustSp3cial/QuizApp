@@ -11,10 +11,10 @@ The application aslo display the user score
 <table>
     <tr>
         <td>
-            <img alt="open opps 1" src="app/src/main/res/drawable/screen_short_suiz_app.jpg">
+            <img alt="open opps 1" src="app/src/main/res/drawable/screen_short_suiz_app.jpeg">
         </td>
         <td>
-            <img alt="open opps 2" src="app/src/main/res/drawable/screen_short_suiz_app.jpg">
+            <img alt="open opps 2" src="app/src/main/res/drawable/screen_short_suiz_app.jpeg">
         </td>
     </tr>
 </table>
